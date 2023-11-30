@@ -23,7 +23,7 @@ In this repository, our goal is to provide support and guidance to Persian front
 6.  we want to record a video
 7. Google verification 
 8. The application is approved by Google.
-###
+##
 <div dir='rtl'>
 
 همکار من یه باگی سمت فرانت هست اگر زحمت بکشید انجام بدید ممنون میشیم.
