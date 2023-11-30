@@ -1,9 +1,14 @@
 <div dir="rtl">
 یکی از مهمترین بخش ها برای فهمیدن منظور و مفهوم سخنان انگلیسی زبان ها در حوزه ی فرانت اند، دانش شما نسبت به اصطلاحات فرانت است. شما شاید کل مطالب گفته شده را بفهمید اما یک اصطلاح را خوب درک نکرده باشید و همین باعث میشود شما نتوانید منظور و مفهوم سخنان آنها را بفهمید. پس در این بخشتلاش بر این است که اصطلاحات استفاده شده در بین فرانت اند کار ها اضافه شود و یک توضیح مختصر (به انگلیسی و فارسی) نیز ارائه شود تا شما بتوانید درک درستی از این اصطلاحات داشته باشید.
+  
   منبع:
 </div>
 https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9
 
+* list
+# h1
+## h2
+### h3
 ***
 
 ## 1. API
@@ -19,13 +24,11 @@ These are points when your website will adjust to accommodate the screen size to
 ## 4. Bootstrap
 Depending upon the context:
 
-Bootstrap refers to a free, open-source front-end framework for designing websites and web apps
-Initializing a project (Eg: “This app was bootstrapped with create-react-app”)
+* Bootstrap refers to a free, open-source front-end framework for designing websites and web apps
+* Initializing a project (Eg: “This app was bootstrapped with create-react-app”)
 
-## 5. Bootstrap
-Depending upon the context:
-Bootstrap refers to a free, open-source front-end framework for designing websites and web apps
-Initializing a project (Eg: “This app was bootstrapped with create-react-app”)
+## 5. Meta Tag
+Additional information on web pages or elements, such as the way a piece of content should be displayed in Google search results, the photo credit for an image, etc.
 
 ## 6. Crawl
 This is the process used by search engines that involves sending a bot to your website to gather information on pages that exist and no longer exist and update their database on the information it has gathered. It is necessary to get indexed by search engines and get found.
@@ -40,7 +43,7 @@ Remember those bugs we talked about? Well, debugging is the process of identifyi
 Deployment is a combination of all of the activities that make a software system available for use.
 
 ## 10. Documentation
-Documentation is essentially the central point of reference for anyone involved in managing, maintaining or using a website or piece of software and provides information on requirements, architecture and design, technical properties, information for the end user.
+Documentation is essentially the central point of reference for anyone involved in managing, maintaining or using a website or piece of software and provides information on requirements, architecture and design, technical properties, and information for the end user.
 
 ## 11. DOM
 The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree.
@@ -95,9 +98,6 @@ A library is a set of modules that makes sense to be together and that can be us
 
 ## 27. Light House
 Lighthouse is an open-source, automated tool for testing and improving the quality of web pages
-
-## 28. Meta Tag
-Additional information on web pages or elements, such as the way a piece of content should be displayed in Google search results, the photo credit for an image, etc.
 
 37. Minification
 Minification is the process of minimizing code and markup to reduce the file size. When creating an HTML file, for example, developers will most likely use spacing, comments, and variables to make the code more readable as they work with it. To minify the code once the webpage is ready to go live, developers will remove these comments and spaces to ensure a quicker page-load time
